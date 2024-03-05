@@ -54,7 +54,8 @@ module.exports = {
     {
       name: 'GitHub',
       link: 'https://github.com/spencerwooo/onedrive-vercel-index',
-    },{
+    },
+    {
       name: 'bilbil',
       link: 'https://space.bilibili.com/359856304',
     },
